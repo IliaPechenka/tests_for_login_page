@@ -1,8 +1,4 @@
-allure-pytest==2.9.45
-requests==2.26.0
 pytest==6.2.5
-pytest-testrail==2.9.0
-pytest-xdist==2.5.0
 selenium==4.0.0
 
 
