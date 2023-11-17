@@ -36,7 +36,7 @@
 - python3
 - pip
 - Google Chrome Browser
-- скачан chromedriver в соответствии с верисей браузера (если нет, скачать https://chromedriver.chromium.org/downloads)
+- скачан chromedriver в соответствии с версией браузера (если нет, скачать https://chromedriver.chromium.org/downloads)
 - chromedriver прописан в PATH или добавлен в директорию ~/Downloads/drivers
 
 ## Необходимые настройки окружения:
